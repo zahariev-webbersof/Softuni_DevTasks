@@ -2,6 +2,7 @@
 
 Welcome to the **SoftUni Coding Tasks and Projects Repository**! 🎉 This collection is specially designed to help students at **SoftUni** practice, learn, and master essential programming concepts. Whether you're a beginner or an advanced learner, you'll find tasks and projects that challenge your skills and help you grow as a developer. 🚀  
 
+Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🐱‍🚀
   
 ![2048_d5964e5351708047190e99b52500b47a](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/assets/68993494/119a51ec-0428-4da7-801f-462140fb9cc7)
 
