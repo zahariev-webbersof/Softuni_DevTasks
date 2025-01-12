@@ -12,7 +12,7 @@ Welcome to the **SoftUni Coding Tasks and Projects Repository**! 🎉 This colle
 
 The repository is organized by programming language, each with its own folder containing tasks and projects:  
 
-1. **[C#](./CSharp/)** 🟦 - Explore tasks that help you learn object-oriented programming, loops, LINQ, and more in C#.  
+1. **[C#](./C%23/)** 🟦 - Explore tasks that help you learn object-oriented programming, loops, LINQ, and more in C#.  
 2. **[Python](./PYTHON/)** 🐍 - Master Python basics, data structures, algorithms, and advanced concepts like file handling.  
 3. **[Java](./JAVA/)** ☕ - Build your Java expertise with projects focusing on OOP, collections, and more.  
 4. **[JavaScript](./JavaScript/)** ✨ - Practice JavaScript for web development, logic building, and dynamic programming tasks.  
