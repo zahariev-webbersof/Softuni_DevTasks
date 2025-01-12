@@ -49,9 +49,9 @@ This repository serves as a **learning playground** for students to:
 
 2️⃣ **Navigate to the Language Folder**:  
    Choose your preferred language and open its folder:  
-   - [C# Tasks](./CSharp/) 🟦  
-   - [Python Tasks](./Python/) 🐍  
-   - [Java Tasks](./Java/) ☕  
+   - [C# Tasks](./C%23/) 🟦  
+   - [Python Tasks](./PYTHON/) 🐍  
+   - [Java Tasks](./JAVA/) ☕  
    - [JavaScript Tasks](./JavaScript/) ✨  
 
 3️⃣ **Start Coding**:  
