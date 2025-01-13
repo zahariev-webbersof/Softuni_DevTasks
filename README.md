@@ -20,6 +20,12 @@ The repository is organized by programming language, each with its own folder co
 
 ---
 
+## 🧩 Lecture material
+
+1. **Git and GitHub documentation**()
+
+---
+
 ## 🎯 Purpose  
 
 This repository serves as a **learning playground** for students to:  
