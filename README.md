@@ -22,7 +22,7 @@ The repository is organized by programming language, each with its own folder co
 
 ## 🧩 Lecture material
 
-1. **Git and GitHub documentation**()
+1. [**Git and GitHub documentation**](https://github.com/zahariev-webbersof/Softuni_DevTasks/blob/main/Git_GitHub_Documentation.md)
 
 ---
 
