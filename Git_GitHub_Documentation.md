@@ -1,5 +1,8 @@
 # Git & GitHub: A Complete Guide for Students 🚀
 
+![199505243-848a53d1-b9dc-40e0-9dd9-a369b0d4ad59-2](https://github.com/user-attachments/assets/a057bb94-a6e7-4c38-b0db-af5e0ff0ed7d)
+
+
 Welcome to the **Git and GitHub Guide**! This guide will help you understand version control systems, Git basics, GitHub features, and how to effectively manage and collaborate on projects. 🚧
 
 ---
