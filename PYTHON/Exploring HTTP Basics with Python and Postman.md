@@ -103,8 +103,8 @@ You will create a simple Python project that interacts with an existing public A
 
 ---
 
-#### **Submission** 📤  
-Submit:  
+#### **Upload the project to your GitHub** 📤  
+
 1. Your Python project files.  
 2. Screenshots of your Postman tests.  
 3. A brief report (1-2 pages) summarizing your findings.  
