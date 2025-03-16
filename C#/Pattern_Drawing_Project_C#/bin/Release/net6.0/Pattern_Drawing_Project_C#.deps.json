@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pattern_Drawing_Project_C#/1.0.0": {
+        "runtime": {
+          "Pattern_Drawing_Project_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pattern_Drawing_Project_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
