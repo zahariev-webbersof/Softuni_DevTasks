@@ -9,7 +9,7 @@ Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahari
    
 ---
 
-## 📂 Repository Structure   
+## 📂 Repository Structure    
 
 The repository is organized by programming language, each with its own folder containing tasks and projects:  
 
