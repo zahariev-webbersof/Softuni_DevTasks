@@ -138,38 +138,60 @@ elif choice in [2, 5, 8]:  # Patterns that need size
 
 # Step 4: Generate the selected pattern
 if choice == 1:  # Right-angled Triangle
-    # TODO: Loop through rows and print increasing stars
-    pass
+    for i in range(1, rows + 1):
+        print(i * "*")
 
 elif choice == 2:  # Square with Hollow Center
-    # TODO: Create a square with a hollow center
-    pass
+    if i == 1 or i == size:  # First or last row
+        print(size * "*")
+    else:  # Middle rows
+        print("*" + " " * (size - 2) + "*")
+
 
 elif choice == 3:  # Diamond
-    # TODO: Create a diamond shape using loops
-    pass
+    if rows % 2 != 0:
+        for i in range(1, rows + 1):
+            if i <= (rows // 2) + 1:
+                stars = 2 * i - 1
+            else:
+                stars = 2 * (rows - i) + 1
+                spaces = (rows - stars) // 2
+                print(" " * spaces + "*" * stars)
+    else:
+        print("Please choose an odd number!")
 
 elif choice == 4:  # Left-angled Triangle
-    # TODO: Print decreasing stars for each row
-    pass
+    for i in range(rows, 0, -1):
+        print(i * "*")
 
 elif choice == 5:  # Hollow Square
-    # TODO: Similar to choice 2 but ensure perfect square logic
-    pass
+    if i == 1 or i == size:
+        print(size * "*")
+    else:
+        print("*" + " " * (size - 2) + "*")
 
 elif choice == 6:  # Pyramid
-    # TODO: Center-align stars to form a pyramid
-    pass
+    for i in range(rows, 0, -1):
+        stars = 2 * i - 1
+        spaces = rows - i
+        print(" " * spaces + "*" * stars)
 
 elif choice == 7:  # Reverse Pyramid
-    # TODO: Create an upside-down pyramid
-    pass
+    for i in range(1, rows + 1):
+        stars = 2 * i - 1
+        spaces = (rows - i)
+        print(" " * spaces + "*" * stars)
 
 elif choice == 8:  # Rectangle with Hollow Center
     # TODO: Handle separate width and height inputs for rectangle
     width = int(input("Enter the width of the rectangle: "))
     height = int(input("Enter the height of the rectangle: "))
-    pass
+
+    for i in range(1, width + 1):
+        if i == 1 or i == height:
+            print(width * "*")
+        else:  # Middle rows
+            print("*" + " " * (width - 2) + "*")
 
 else:
     print("❌ Invalid choice! Please restart the program.")
