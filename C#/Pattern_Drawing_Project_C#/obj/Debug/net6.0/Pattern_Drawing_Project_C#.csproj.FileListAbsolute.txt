@@ -1,0 +1,14 @@
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\bin\Debug\net6.0\Pattern_Drawing_Project_C#.exe
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\bin\Debug\net6.0\Pattern_Drawing_Project_C#.deps.json
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\bin\Debug\net6.0\Pattern_Drawing_Project_C#.runtimeconfig.json
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\bin\Debug\net6.0\Pattern_Drawing_Project_C#.dll
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\bin\Debug\net6.0\Pattern_Drawing_Project_C#.pdb
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\Pattern_Drawing_Project_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\Pattern_Drawing_Project_C#.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\Pattern_Drawing_Project_C#.AssemblyInfo.cs
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\Pattern_Drawing_Project_C#.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\Pattern_Drawing_Project_C#.dll
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\refint\Pattern_Drawing_Project_C#.dll
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\Pattern_Drawing_Project_C#.pdb
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\Pattern_Drawing_Project_C#.genruntimeconfig.cache
+D:\VisualStudioProjects\Pattern_Drawing_Project_C#\obj\Debug\net6.0\ref\Pattern_Drawing_Project_C#.dll
