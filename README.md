@@ -18,7 +18,7 @@ The repository is organized by programming language, each with its own folder co
 3. **[Java](./JAVA/)** ☕ - Build your Java expertise with projects focusing on OOP, collections, and more.  
 4. **[JavaScript](./JavaScript/)** ✨ - Practice JavaScript for web development, logic building, and dynamic programming tasks.  
 
---- 
+---  
  
 ## 🧩 Lecture material
 
