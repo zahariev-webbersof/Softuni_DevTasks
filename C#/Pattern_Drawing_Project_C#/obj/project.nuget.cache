@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2QuZQVtzGE=",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudioProjects\\Pattern_Drawing_Project_C#\\Pattern_Drawing_Project_C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\D4Damager\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.35\\microsoft.netcore.app.runtime.win-x64.6.0.35.nupkg.sha512",
+    "C:\\Users\\D4Damager\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.35\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.35.nupkg.sha512",
+    "C:\\Users\\D4Damager\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.35\\microsoft.aspnetcore.app.runtime.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
